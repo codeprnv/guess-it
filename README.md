@@ -92,3 +92,7 @@ The script is structured into a few key functions to handle the game logic and u
     - Providing feedback to the player.
 
 - `main():` This function acts as the main game loop controller. It repeatedly calls guessIt() as long as the player wants to play again, providing a seamless replay experience.
+
+# ✒️Authors
+
+- Made with ❤️ by [@codeprnv](https://github.com/codeprnv)
